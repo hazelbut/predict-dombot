@@ -1,0 +1,4 @@
+aiohttp>=3.9,<4
+predict-sdk==0.0.22
+eth-account>=0.11
+numpy>=1.24
